@@ -1,0 +1,23 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+/home/mcxbain/ada/default.gpr
+20200615191241
+[BOUND OBJECT FILES]
+/home/mcxbain/ada/build/tokenize.o
+/home/mcxbain/ada/build/convert.o
+/home/mcxbain/ada/build/main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-L/home/mcxbain/ada/build/
+-L/home/mcxbain/ada/build/
+-L/usr/lib/gcc/x86_64-linux-gnu/7/adalib/
+-shared
+-shared-libgcc
+-lgnat-7
+[RUN PATH OPTION]
+/usr/lib/gcc/x86_64-linux-gnu/7/adalib/
+/usr/lib
