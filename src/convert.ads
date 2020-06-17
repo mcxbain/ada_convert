@@ -27,7 +27,6 @@
 
 Package Convert Is
 
-
     -- Octet Type For Ipv4 Internet Address    
     Subtype Octet_Type  Is Integer Range 0 .. 255;
     
@@ -36,6 +35,5 @@ Package Convert Is
    
     -- Convert String Type To Ipv4 Internet Address Type 
     Function StringToIpv4(My_String : in String) Return Ipv4_Type;
-   
    
 End Convert;
