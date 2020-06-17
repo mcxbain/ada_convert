@@ -1,7 +1,5 @@
-With Ada.Text_Io;
-Use Ada.Text_Io;
-With Convert;
-Use Convert;
+With Ada.Text_Io; Use Ada.Text_Io;
+With Convert; Use Convert;
 
 
 Procedure Main Is
