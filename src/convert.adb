@@ -13,7 +13,6 @@ Begin
 
 My_Vector:=Tokenize.Tokenize(My_String , ".");
 
-
 For I In My_Vector.First_Index .. My_Vector.Last_Index Loop
 
    My_Ipv4(I):=integer'Value(My_Vector.Element (Index => I));
