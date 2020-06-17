@@ -34,7 +34,7 @@ Package Convert Is
     -- Ipv4 Internet Address Type 
     Type Ipv4_Type Is Array (Integer Range 1 ..4) Of Octet_Type;
    
-    -- Convert String To Ipv4 Internet Address 
+    -- Convert String Type To Ipv4 Internet Address Type 
     Function StringToIpv4(My_String : in String) Return Ipv4_Type;
    
    
